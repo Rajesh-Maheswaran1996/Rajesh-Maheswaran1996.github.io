@@ -1,4 +1,4 @@
-## CS 416 Data Visualization- Project Essay
+## CS 416 Data Visualization
 
 By Rajesh Maheswaran; rajeshm2
 Summer 2021
